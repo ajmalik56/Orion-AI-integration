@@ -92,20 +92,5 @@
 
 ---
 
-## 📞 Support
-- 📧 Email: [support@orionaiworkspace.tech](mailto:support@orionaiworkspace.tech)  
-- 💬 Discord: [Join our community](https://discord.gg/)  
-- 📖 Documentation: [orionaiworkspace.tech/documentation](https://orionaiworkspace.tech/documentation)
 
----
-
-<p align="center">
-  ⭐ If you like this project, give it a star and share with the community!
-</p>
-
----
-
-<p align="center">
-  🚀 Product of <strong>Orion AI Global</strong> – Empowering teams with AI while respecting privacy & user control.
-</p>
 
